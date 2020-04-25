@@ -19,7 +19,7 @@
 #
 -->
 
-# Health Checks for Upstream
+# Health Chcks for Upstream
 
 Health Check of APISIX is based on [lua-resty-healthcheck](https://github.com/Kong/lua-resty-healthcheck),
 you can use it for upstream.
